@@ -1,6 +1,6 @@
 # LaroldsJubilantJunkyard
 
-My versions of LaroldsJubilantJunkyard tutorials.
+My versions of LaroldsJubilantJunkyard Gameboy coding tutorials.
 
 https://github.com/LaroldsJubilantJunkyard
 
