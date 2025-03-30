@@ -1,4 +1,4 @@
-.DS_Store
+:q.DS_Store
 *.gb
 *.sav
 *.asm
@@ -6,3 +6,5 @@
 *.o
 *.sym
 *.swp
+.map
+.noi
