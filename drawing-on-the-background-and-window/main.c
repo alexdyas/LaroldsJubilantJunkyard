@@ -8,6 +8,8 @@ void main(void)
     SHOW_BKG;
 
     // Populate VRAM with our tile data
+    // place a given number of tiles in the VRAM space dedicated to the window/background
+    // Parameters - where in VRAM to store tiles , how many tiles to place in VRAM , point to tile data
     set_bkg_data(0,LaroldsJubilantJunkyard_tileCount,LaroldsJubilantJunkyard_data);
 
     // Set the actual background tiles
